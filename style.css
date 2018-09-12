@@ -33,5 +33,9 @@ body {
 }
 
 #details div {
-  display: floating; 
+  display: float left; 
+  background-color: blue;
+  text-align: center;
+  width: 200px;
 }
+
