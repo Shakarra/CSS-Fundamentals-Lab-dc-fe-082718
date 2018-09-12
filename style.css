@@ -19,5 +19,19 @@ body {
 }
 
 #figcaption {
-  
+  text-align: center;
+  font-size: ;
+}
+
+.p {
+  text-align: center;
+  width: 800px;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  display: floating; 
 }
